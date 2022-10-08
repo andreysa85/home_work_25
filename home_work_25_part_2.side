@@ -71,7 +71,7 @@
       "command": "verifyText",
       "target": "css=*[data-test=\"error\"]",
       "targets": [],
-      "value": "Epic sadface: Sorry, this user has been locked out.1"
+      "value": "Epic sadface: Sorry, this user has been locked out."
     }]
   }],
   "suites": [{
